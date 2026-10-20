@@ -13,6 +13,7 @@ To find out how winners differ from losers, and how game statistics change over 
 ### What's inside
  
 - **Daily trends in average kills** for winners and losers, with summary statistics (mean, median, standard deviation, maximum)
+  ![Daily trends in average kills](Daily_Trends_Average_Kills.png)
 - **Survival time distribution** as a histogram with mean markers
 - **Survival time trends by date**: a scatter plot and daily averages
 - **Player distribution across game modes** (Solo, Duos, Squads)
