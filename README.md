@@ -13,10 +13,13 @@ To find out how winners differ from losers, and how game statistics change over 
 ### What's inside
  
 - **Daily trends in average kills** for winners and losers, with summary statistics (mean, median, standard deviation, maximum)
-  ![Daily trends in average kills](Daily_Trends_Average_Kills.png)
+  ![Daily trends in average kills](/plots/Daily_Trends_Average_Kills.png)
 - **Survival time distribution** as a histogram with mean markers
+  ![Survival time distribution](/plots/Survival_time_distribution_in_PUBG.png)
 - **Survival time trends by date**: a scatter plot and daily averages
+  ![Survival time trends by date](/plots/Survival_time_distribution_in_PUBG_2.png)
 - **Player distribution across game modes** (Solo, Duos, Squads)
+  ![Player distribution across game modes](/plots/Distribution_teammodes.png)
 ### Key findings
  
 - The data is heavily imbalanced: only **2.9%** of players are winners (1,445 wins vs 48,555 losses).
